@@ -9,6 +9,9 @@ Call the Pizza Place
 Place my order
 Choose payment method
     a. Use Credit Card.
+        i. Visa
+        ii. Mastercard
+        iii. AmEx
     b. Pay with Cash.
 Wait
 Receive Pizza
